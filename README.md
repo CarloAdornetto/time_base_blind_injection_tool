@@ -1,6 +1,6 @@
 TIME BASE BLIND ATTACK TOOL
 
-This tool has been developed to make the "Time Base Blind Injection" attack on sites where the following information are known:
+This tool has been developed to perform a "Time Base Blind Injection" attack on sites where the following information are known:
 -	Request URL;
 -	An existing value in the site Database end the field name that value is referred to;
 
